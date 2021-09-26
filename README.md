@@ -5,7 +5,7 @@
 1. Download folder Worldometer
 2. Open Command line(terminal)
 3. Move the command pointer to the location of the downloaded folder
-4. Enter the command: [python -m pip install scrapy] to install Scrapy (*condition: your device already has <pip> and <python 3>)
+4. Enter the command: [python -m pip install scrapy] to install Scrapy (*condition: your device already has pip and python 3)
 5. Then enter the command: [scrapy crawl countries ]
 ### Result:
 'title': 'Countries in the world by population (2021)'
